@@ -1,7 +1,7 @@
 {
   "name": "dpzeus-web-loader",
   "version": "1.0.0",
-  "description": "inject web path for dpzeus jsbrige",
+  "description": "inject web patch for dpzeus jsbrige",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

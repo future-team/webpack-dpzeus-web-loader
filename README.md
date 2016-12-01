@@ -1,5 +1,5 @@
 # webpack-dpzeus-web-loader
-inject web path for dpzeus jsbrige
+inject web patch for dpzeus jsbrige
 
 ### Usage
 
