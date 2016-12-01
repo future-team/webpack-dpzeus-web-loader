@@ -1,0 +1,14 @@
+{
+  "name": "dpzeus-web-loader",
+  "version": "1.0.0",
+  "description": "inject web path for dpzeus jsbirge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "genffy",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  }
+}
